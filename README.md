@@ -29,12 +29,20 @@ All types of for loops with examples:
 - 🔄 Nested loops
 - 🛑 break and continue
 
+### 4. 🔢 Prime Number Checker (`prime_numbers.py`)
+Learn and test prime numbers with:
+- ✅ Prime check function
+- 📋 List primes in a range
+- 🧪 Sample number checks
+- 🧠 Interactive user input
+
 ## 🚀 How to Run
 
 ```bash
 python3 student_grades.py
 python3 palindrome.py
 python3 for_loops.py
+python3 prime_numbers.py
 ```
 
 ## 📚 Concepts Covered
@@ -43,4 +51,5 @@ python3 for_loops.py
 - Functions
 - String manipulation
 - Palindrome logic
+- Prime number logic
 - Grade calculation
